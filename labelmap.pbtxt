@@ -1,0 +1,28 @@
+item {
+  id: 1
+  name: "other rifle"
+}
+item {
+  id: 2
+  name: "mp5"
+}
+item {
+  id: 3
+  name: "shotgun"
+}
+item {
+  id: 4
+  name: "ar style rifle"
+}
+item {
+  id: 5
+  name: "ak style rifle"
+}
+item {
+  id: 6
+  name: "pistol"
+}
+item {
+  id: 7
+  name: "holstered pistol"
+}
