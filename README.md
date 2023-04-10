@@ -1,5 +1,5 @@
 # GunDetectV1
-Tensorflow weapon detection module, v1. Trained 200000 steps on Power9 hardware with 2x Nvidia Tesla v100s. Haven't benchmarked it yet, but it appears to be fairly accurate.
+Tensorflow weapon detection model, v1. Trained 200000 steps on Power9 hardware with 2x Nvidia Tesla v100s. Haven't benchmarked it yet, but it appears to be fairly accurate.
 
 This was trained on a hand-tagged dataset of 2,000 images with 7 types of weapons: AR-Type rifle, Ak-type rifle, shotgun, hunting rifle, mp5, pistol, holstered pistol
 
